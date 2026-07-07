@@ -1,4 +1,5 @@
- ___          ________  _____ ______           ________          ________  _______   ___      ___ _______   ___       ________  ________  _______   ________     
+```
+___          ________  _____ ______           ________          ________  _______   ___      ___ _______   ___       ________  ________  _______   ________     
 |\  \        |\   __  \|\   _ \  _   \        |\   __  \        |\   ___ \|\  ___ \ |\  \    /  /|\  ___ \ |\  \     |\   __  \|\   __  \|\  ___ \ |\   __  \    
 \ \  \       \ \  \|\  \ \  \\\__\ \  \       \ \  \|\  \       \ \  \_|\ \ \   __/|\ \  \  /  / | \   __/|\ \  \    \ \  \|\  \ \  \|\  \ \   __/|\ \  \|\  \   
  \ \  \       \ \   __  \ \  \\|__| \  \       \ \   __  \       \ \  \ \\ \ \  \_|/_\ \  \/  / / \ \  \_|/_\ \  \    \ \  \\\  \ \   ____\ \  \_|/_\ \   _  _\  
@@ -8,7 +9,8 @@
                                                                                                                                                                  
                                                                                                                                                                  
                                                                                                                                                                  
+```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=6EBBF7&background=FFFFFF00&vCenter=true&width=435&lines=I+Love+To+Code!;I+Make+Games+With+Godot;I+Am+A+Developer!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=6EBBF7&background=FFFFFF00&vCenter=true&width=435&lines=I+Love+To+Code!;I+Make+Games+With+Godot;I+Am+A+Developer!)](https://git.io/typing-svg)
 
-I Am A Developer!
+
